@@ -1,5 +1,5 @@
 ---
-title: "Welcome Hooman"
+title: "Wetlands are awesome!"
 output:
   html_document:
     toc: no
@@ -14,13 +14,13 @@ pacman::p_load(knitr)
 
 ###
 
-```{r, echo=FALSE, fig.cap="Hi! I am Estrella.", out.width = '30%', fig.align='center'}
-knitr::include_graphics("my_smiling_face_here.jpg")
+```{r, echo=FALSE, fig.cap="Hi! I am Megan.", out.width = '30%', fig.align='center'}
+knitr::include_graphics("muddy_auger.jpg")
 ```
    
 <h6 style="text-align: center;" markdown="1">
 
-Email: da_boss_estrella [at] hotmail [dot] com
+Email: megan.podolinsky [at] colostate [dot] com; megan.podolinsky [at] gmail [dot] com
 
 </h6>     
 

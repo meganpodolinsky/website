@@ -6,12 +6,12 @@ output:
     # css: assets/style.css
     self_contained: yes
     keep_md: no
-    theme: flatly
+    theme: cosmo
     toc: yes
     toc_depth: 3
     toc_float: yes
 navbar:
-  title: Estrella da Boss
+  title: Megan Podolinsky
   left:
   - text: Home
     href: index.html
