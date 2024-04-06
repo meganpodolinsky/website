@@ -21,9 +21,9 @@ navbar:
     icon: fa-flask
   - text: Website Tutorial
     href: website_tutorial.html
-  # - text: Resume
-  #   href: "./resume/resume_john_doe.pdf"
-  #   icon: fa-id-card
+  - text: Resume
+    href: "./resume/resume_john_doe.pdf"
+    icon: fa-id-card
   right:
   - icon: fa-twitter
     href: https://twitter.com/another_ant_guy
